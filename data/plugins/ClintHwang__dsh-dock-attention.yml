@@ -1,0 +1,6 @@
+url: https://github.com/ClintHwang/dsh-dock-attention
+name: ClintHwang/dsh-dock-attention
+category: notify
+description:
+  en: 'Bounces a Dock tile with the target app icon when a Harness session turn finishes, through a bundled native helper app; clicking the tile returns to Harness.'
+  zh: 'DSH 会话一轮任务结束时，通过内置的原生 helper 让带 DSH 图标的 Dock 图块跳动提醒；点击图块回到 Harness。'
